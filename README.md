@@ -78,7 +78,7 @@ Configure Teams
 Admin Panel -> Agents -> Teams (Pull Agents from different Departments)
 Online Banking
 
-For teams, the whole point is if you want create like a group of people who are all from different DEPARTMENTS. Example could be if you work at a clothing shop, you'll create a design team that consists of the marketing team members who are responsible for making sure everything looks good to market. Or a Banking team that consists of sysadmins who are responsible for theh online banking system, and some help desk people who help out customers.
+For teams, the whole point is if you want create like a group of people who are all from different DEPARTMENTS. Example could be if you work at a clothing shop, you'll create a design team that consists of the marketing team members who are responsible for making sure everything looks good to market. Or a Banking team that consists of sysadmins who are responsible for the online banking system, and some help desk people who help out customers.
 
 ![image](https://github.com/user-attachments/assets/8d13a6f4-386e-4d9d-bf24-295655dfdd10)
 
@@ -87,7 +87,7 @@ Allow anyone to create tickets
 Admin Panel -> Settings -> User Settings (UNCHECK: unregistered users can create tickets)
 Registration Required: Require registration and login to create tickets 
 
-This setting allows people to create tickets even though their not registered in theh system yet. Like the end users can create their own tickets without having an account.
+This setting allows people to create tickets even though their not registered in the system yet. Like the end users can create their own tickets without having an account.
 
 ![image](https://github.com/user-attachments/assets/2c9ff3d0-a6f5-45d5-b9a8-86a67c9d78ca)
 
@@ -98,7 +98,7 @@ Admin Panel -> Agents -> Add New
 Jane (Dept: SysAdmins)
 John (Dept: Support)
 
-You will create a agent named Jane and John. Jane will be in SysAdmins department and with the online banking team. You'll do the same with John but will be with Support department and with won't be with a team.
+You will create a agent named Jane and John. Jane will be in SysAdmins department and with the online banking team. You'll do the same with John but will be with Support department and won't be with a team.
 
 
 ![image](https://github.com/user-attachments/assets/c7ff4efd-fda0-4d1a-9873-2d5f5256944b)
@@ -116,7 +116,7 @@ Configure Users (customers)
 Agent Panel -> Users -> Add New
 Karen
 
-Know we'll add a user named Karen, remember to switch over to agent panel, and from there click on users and create her.
+Now we'll add a user named Karen, remember to switch over to agent panel, and from there click on users and create her.
 
 ![image](https://github.com/user-attachments/assets/99e2d51a-1d51-40ba-ba22-6565bad49cb7)
 
