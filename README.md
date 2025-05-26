@@ -154,3 +154,18 @@ Lastly, topics are for when end users are creating a ticket they choose the cata
 
 ![image](https://github.com/user-attachments/assets/70636830-2d2b-4bc4-b7f4-6521b8f89244)
 
+![image](https://github.com/user-attachments/assets/29bb45f6-a6f5-4b99-9622-1d56892d8ffb)
+
+
+
+![image](https://github.com/user-attachments/assets/92a5dbc5-53fd-47e3-a86d-41f2401b9673)
+
+![image](https://github.com/user-attachments/assets/f95d708c-ecd4-4187-bbba-0910b4ccb550)
+
+
+
+
+
+
+
+
