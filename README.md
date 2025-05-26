@@ -134,6 +134,9 @@ SLAs stand for service level agreement, and its how much time you have to comple
 ![image](https://github.com/user-attachments/assets/456533c8-8082-4f79-b9a1-b5e15478bd4b)
 
 
+![image](https://github.com/user-attachments/assets/3c0133de-288f-43d7-9ad5-6be401d88cee)
+
+
 
 Configure Help Topics (For when users create a ticket)
 Admin Panel -> Manage -> Help Topics
@@ -144,5 +147,10 @@ Password Reset
 Other
 
 
+Lastly, topics are for when end users are creating a ticket they choose the catagory of the problem/issue.
 
+![image](https://github.com/user-attachments/assets/a91f68b7-9047-4b01-b6c0-bdc1f1d25e97)
+
+
+![image](https://github.com/user-attachments/assets/70636830-2d2b-4bc4-b7f4-6521b8f89244)
 
