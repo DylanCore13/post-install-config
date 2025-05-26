@@ -78,6 +78,11 @@ Configure Teams
 Admin Panel -> Agents -> Teams (Pull Agents from different Departments)
 Online Banking
 
+For teams, the whole point is if you want create like a group of people who are all from different DEPARTMENTS. Example could be if you work at a clothing shop, you'll create a design team that consists of the marketing team members who are responsible for making sure everything looks good to market. Or a Banking team that consists of sysadmins who are responsible for theh online banking system, and some help desk people who help out customers.
+
+![image](https://github.com/user-attachments/assets/8d13a6f4-386e-4d9d-bf24-295655dfdd10)
+
+
 Allow anyone to create tickets
 Admin Panel -> Settings -> User Settings (UNCHECK: unregistered users can create tickets)
 Registration Required: Require registration and login to create tickets 
