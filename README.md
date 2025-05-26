@@ -51,6 +51,9 @@ Configure Roles (for grouping permissions)
 Admin Panel -> Agents -> Roles
 Supreme Admin
 
+![image](https://github.com/user-attachments/assets/71d1f311-4d71-4d86-bb10-052bdaf8790f)
+
+
 Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
 Admin Panel -> Agents -> Departments
 SysAdmins
