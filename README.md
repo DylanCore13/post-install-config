@@ -34,10 +34,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 
-<h2> 
- STEP 1: Access your created Windows 10 virtual machine (which has osTicket currently installed on it) hosted in Azure by establishing a remote desktop connection via its public IP address using your preferred Remote Desktop client.
- 
-</h2>
 
 <p>
 
@@ -46,9 +42,6 @@ This tutorial outlines the post-install configuration of the open-source help de
  ![image](https://github.com/user-attachments/assets/717a484f-161d-4a11-8c7f-fd1752d2b202)
 </p>
 
-<h2>
- STEP 2: Access the help desk login page using this link within the Virtual Machine (http://localhost/osTicket/scp/login.php).
-</h2>
 
 - Be sure to log in using the administrator credentials that were assigned during the osTicket basic installation process towards the end of the previous lab.
 
