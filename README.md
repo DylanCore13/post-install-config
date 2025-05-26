@@ -53,10 +53,26 @@ Supreme Admin
 
 ![image](https://github.com/user-attachments/assets/71d1f311-4d71-4d86-bb10-052bdaf8790f)
 
+You will go to add role and name it Supreme Admin, than you'll see a section somewhere called permissions, check off evey single box in "Ticket", "Tasks", and "Knowledgebase",
+than just click add role/create. This will give Supreme Admin full access and control over these permissions.
+
+![image](https://github.com/user-attachments/assets/a310c354-25ed-49c3-8e3c-5bbd746f1044)
+
+
 
 Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
 Admin Panel -> Agents -> Departments
 SysAdmins
+
+Next we will configure departments to view ticket visability, so if a ticket gets assigned to like a specific department 
+such as networking, you could configure it so they only can see their own tickets. Maybe a different deparment like SysAdmins can see all tickets.
+
+![image](https://github.com/user-attachments/assets/63f812b3-0dad-4bb7-82b1-759505a2e568)
+
+
+![image](https://github.com/user-attachments/assets/83eb04c1-da75-49ed-ae5d-7450e5eb4c60)
+
+
 
 Configure Teams
 Admin Panel -> Agents -> Teams (Pull Agents from different Departments)
