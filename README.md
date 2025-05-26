@@ -33,8 +33,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-Log in to your osTicket panel that you installed in last lesson
+Log in to your osTicket panel that you installed in last lesson (pre-requisites and installation)
 
 ![image](https://github.com/user-attachments/assets/c50351f7-58c0-4db7-b4ae-27a6e744a814)
+
+
 
 
