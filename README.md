@@ -127,6 +127,14 @@ Sev-A (Grace Period: 1 hour, Schedule: 24/7)
 Sev-B (Grace Period: 4 hours, Schedule: 24/7)
 Sev-C (Grace Period: 8 hours, Business Hours)
 
+SLAs stand for service level agreement, and its how much time you have to complete a ticket or task. You'll have to go back to Admin panel to configure it. We are going to create 3 SLAs. Sev-A, Sev-B, Sev-C. A being a big problem, B being a bit less than A, and C being a small problem. Go to manage and than click onn SLAs. Than click on add new SLA plan.
+
+![image](https://github.com/user-attachments/assets/1e9fee92-e135-43fd-9385-d81c14c85ff8)
+
+![image](https://github.com/user-attachments/assets/456533c8-8082-4f79-b9a1-b5e15478bd4b)
+
+
+
 Configure Help Topics (For when users create a ticket)
 Admin Panel -> Manage -> Help Topics
 Business Critical Outage
