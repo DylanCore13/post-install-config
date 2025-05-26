@@ -98,6 +98,8 @@ Admin Panel -> Agents -> Add New
 Jane (Dept: SysAdmins)
 John (Dept: Support)
 
+You will create a agent named Jane and John. Jane will be in SysAdmins department and with the online banking team. You'll do the same with John but will be with Support department and with won't be with a team.
+
 
 ![image](https://github.com/user-attachments/assets/c7ff4efd-fda0-4d1a-9873-2d5f5256944b)
 
@@ -105,11 +107,19 @@ John (Dept: Support)
 ![image](https://github.com/user-attachments/assets/dfe14490-3865-4f9f-90e3-850012a0c56f)
 
 
+![image](https://github.com/user-attachments/assets/7becdc94-45d8-45df-8e90-554fa49f49b1)
+
+
+
 
 Configure Users (customers)
 Agent Panel -> Users -> Add New
 Karen
-Ken
+
+Know we'll add a user named Karen, remember to switch over to agent panel, and from there click on users and create her.
+
+![image](https://github.com/user-attachments/assets/99e2d51a-1d51-40ba-ba22-6565bad49cb7)
+
 
 Configure SLA
 Admin Panel -> Manage -> SLA
