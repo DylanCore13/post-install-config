@@ -87,10 +87,24 @@ Allow anyone to create tickets
 Admin Panel -> Settings -> User Settings (UNCHECK: unregistered users can create tickets)
 Registration Required: Require registration and login to create tickets 
 
+This setting allows people to create tickets even though their not registered in theh system yet. Like the end users can create their own tickets without having an account.
+
+![image](https://github.com/user-attachments/assets/2c9ff3d0-a6f5-45d5-b9a8-86a67c9d78ca)
+
+
+
 Configure Agents (workers)
 Admin Panel -> Agents -> Add New
 Jane (Dept: SysAdmins)
 John (Dept: Support)
+
+
+![image](https://github.com/user-attachments/assets/c7ff4efd-fda0-4d1a-9873-2d5f5256944b)
+
+
+![image](https://github.com/user-attachments/assets/dfe14490-3865-4f9f-90e3-850012a0c56f)
+
+
 
 Configure Users (customers)
 Agent Panel -> Users -> Add New
