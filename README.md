@@ -38,7 +38,9 @@ Log in to your osTicket panel that you installed in last lesson (pre-requisites 
 ![image](https://github.com/user-attachments/assets/c50351f7-58c0-4db7-b4ae-27a6e744a814)
 
 
-Once you are logged in, acknowledge/view/familarize yourself with the AGENT and ADMIN panel
+Once you are logged in, acknowledge/view/familarize yourself with the AGENT and ADMIN panel.
+Notice how in Admin panel its shows a few configurations such as "Dashboards", "settings", "Manage", "Emails", and "Agents".
+All of this is to configure settings on the backend for osTicket. If you click agent panel, this is if you're a help desk helper/worker.
 
 ![image](https://github.com/user-attachments/assets/03b1e98f-9a50-41ad-9d6e-18849ecd938d)
 
